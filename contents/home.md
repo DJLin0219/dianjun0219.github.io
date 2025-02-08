@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+[![dianjun0219](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/DJLin0219)
 
 #### Email
-sli[at]cumt.edu.cn
+dzl5618[at]psu.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Statistics, Department of Statistics, Pennsylvania State University, 2022— Now.\
+M.S., Statistics and Data Science, The Institute of Statistics and Big Data, Renmin University of China, 2020—2022.\
+B.S., Mathematics, School of Mathematical Sciences, Nankai Univerity, 2016—2020.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Graphical Model, Causual Inference, Dimension Reduction, Nonconvex Optimization.
 
