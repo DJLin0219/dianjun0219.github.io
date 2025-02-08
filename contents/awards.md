@@ -1,4 +1,4 @@
-- Outstanding graduate for Renmin University of China, 2022.
+- Outstanding graduate of Renmin University of China, 2022.
   
 - Chinese National Scholarship of Graduate Student, 2021.
 
