@@ -1,13 +1,12 @@
-- National Scholarship of Graduate Student, 2024.
+- Outstanding graduate for Renmin University of China, 2022.
+  
+- Chinese National Scholarship of Graduate Student, 2021.
 
-- First-prize Scholarship of CUMT, 2024.
+- First-prize Academic Scholarship for Professional Degree of Renmin University of China, 2021.
 
-- First-prize Scholarship of CUMT, 2023.
+- First-prize Academic Scholarship for Professional Degree of Renmin University of China, 2020.
 
-- Freshman Scholarship of CUMT, 2022.
+- BoLing Academic Scholarship of Nankai University, 2017.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
 
-- First-prize Scholarship of CUMT, 2019.
