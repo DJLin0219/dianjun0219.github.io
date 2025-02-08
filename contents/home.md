@@ -1,7 +1,5 @@
 
 
-[![dianjun0219]()](https://github.com/DJLin0219)
-
 #### Email
 dzl5618[at]psu.edu
 
