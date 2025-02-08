@@ -1,6 +1,6 @@
 
 
-[![dianjun0219](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/DJLin0219)
+[![dianjun0219]()](https://github.com/DJLin0219)
 
 #### Email
 dzl5618[at]psu.edu
